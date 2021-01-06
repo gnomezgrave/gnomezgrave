@@ -6,6 +6,11 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
 Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
 
+### My stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+
 ### Wanna connect with me?
 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UCB9dJjRyp6gJXItrLPaZsOA)
@@ -17,6 +22,7 @@ Since I'm (still) a full-time Software Engineer, I also like to share my code so
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/praneethpeiris/)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/twitter.png" height="20"/>&nbsp; [Twitter](https://twitter.com/PraneethPeiris)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
+
 
 ### Wanna get something done?
 
